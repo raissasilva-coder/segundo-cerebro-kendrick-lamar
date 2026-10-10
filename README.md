@@ -162,4 +162,4 @@ Estrutura visual completa mapeando as origens em Compton, discografia, processos
 
 ### 📁 4. Evidências de Pesquisa e Prints
 Capturas de tela documentando o planejamento no Notion, a curadoria das 19 fontes e a interface do Estúdio com os artefatos gerados.
-* 👉 **[Acessar a Pasta de Prints e Evidências](./prints/)**![Uploading image.png…]()
+* 👉 **[Acessar a Pasta de Prints e Evidências](./prints/)**
