@@ -11,46 +11,49 @@
 As fontes selecionadas cobrem biografias, análises líricas e discográficas, matérias jornalísticas de veículos consolidados e documentários/vídeos explicativos no YouTube.
 
 ### Fontes de Texto
-1. **Encyclopædia Britannica:** [Biografia de Kendrick Lamar](https://www.britannica.com/biography/Kendrick-Lamar)
-   * *Motivo da confiança:* Enciclopédia de alta credibilidade acadêmica para dados biográficos precisos e cronologia da carreira.
-2. **Rolling Stone Brasil:** [Como Kendrick Lamar mudou o hip-hop](https://rollingstone.com.br/noticia/como-kendrick...)
-   * *Motivo da confiança:* Veículo especializado de grande relevância no jornalismo cultural e musical mundial.
-3. **The Science Survey:** [Análise sobre arte e contexto das obras](https://thesciencesurvey.com.translate.goog/arts-...)
-   * *Motivo da confiança:* Análise crítica e aprofundada da produção artística internacional.
-4. **Revista Veja:** [Matéria sobre a obra e relevância de Kendrick Lamar](https://veja.abril.com.br/cultura/kendrick-lamar-...)
-   * *Motivo da confiança:* Portal de imprensa tradicional cobrindo o impacto cultural e social dos lançamentos do artista.
-5. **Gazeta do Povo:** [Artigo de opinião/análise cultural sobre Kendrick Lamar](https://www.gazetadopovo.com.br/opiniao/artigos/k...)
-   * *Motivo da confiança:* Análise crítica e contextualmente aprofundada dos temas sociais abordados nas composições.
-6. **Letras.mus.br (Count Me Out):** [Letra e tradução oficial](https://www.letras.mus.br/kendrick-lamar/count-me-out/)
-   * *Motivo da confiança:* Base de dados primária das letras e composições do artista para análise textual direta.
-7. **Letras.mus.br (Swimming Pools):** [Letra e tradução oficial](https://www.letras.mus.br/kendrick-lamar/swimming-pools-drank/)
-   * *Motivo da confiança:* Base de dados primária das letras e composições do artista para análise textual direta.
-8. **Letras.mus.br (United In Grief):** [Letra e tradução oficial](https://www.letras.mus.br/kendrick-lamar/united-in-grief/)
-   * *Motivo da confiança:* Base de dados primária das letras e composições do artista para análise textual direta.
-9. **Rimas e Batidas:** [4 traços da personalidade de Kendrick Lamar](https://www.rimasebatidas.pt/4-tracos-da-personal...)
-   * *Motivo da confiança:* Portal especializado em cultura Hip-Hop com análises focadas no comportamento, poética e identidade do rapper.
-10. **Tenho Mais Discos Que Amigos!:** [Biografia e marcos da carreira](https://www.tenhomaisdiscosqueamigos.com/2018/03/25/kendrick-lamar-biografia/)
-    * *Motivo da confiança:* Veículo independente brasileiro de renome no ecossistema musical.
-11. **Navarros:** [20 curiosidades sobre Kendrick Lamar que poucos fãs conhecem](https://navarros.com.br/2026/03/06/20-curiosidades-sobre-kendrick-lamar-que-poucos-fas-conhecem/)
-    * *Motivo da confiança:* Portal de curiosidades de cultura pop para apoio de fatos e contextos específicos da trajetória.
 
-### Fontes de Vídeo
-1. **O Enterro de Drake:** [Decifrando 'Not Like Us' - Kendrick Lamar](https://youtu.be/YWNYxS1WF-U)
+1. **Navarros:** [20 curiosidades sobre Kendrick Lamar que poucos fãs conhecem](https://navarros.com.br/2026/03/06/20-curiosidades-sobre-kendrick-lamar-que-poucos-fas-conhecem/)
+   * *Motivo da confiança:* Portal de curiosidades de cultura pop para apoio de fatos e contextos específicos da trajetória.
+2. **Rolling Stone Brasil:** [Como Kendrick Lamar descobriu que seria rapper](https://rollingstone.com.br/noticia/como-kendrick-lamar-descobriu-seria-rapper/)
+   * *Motivo da confiança:* Veículo especializado de grande relevância no jornalismo cultural e musical mundial.
+3. **The Science Survey:** [Compton's Finest: The Story of Kendrick Lamar](https://thesciencesurvey.com/arts-entertainment/2025/05/12/comptons-finest-the-story-of-kendrick-lamar/)
+   * *Motivo da confiança:* Análise crítica e aprofundada da produção artística internacional.
+4. **Revista Veja:** [Kendrick Lamar: o artista que transformou o rap em alta literatura](https://veja.abril.com.br/cultura/kendrick-lamar-o-artista-que-transformou-o-rap-em-alta-literatura/)
+   * *Motivo da confiança:* Portal de imprensa tradicional cobrindo o impacto cultural e social dos lançamentos do artista.
+5. **Encyclopædia Britannica:** [Biografia de Kendrick Lamar](https://www.britannica.com/biography/Kendrick-Lamar)
+   * *Motivo da confiança:* Enciclopédia de alta credibilidade acadêmica para dados biográficos precisos e cronologia da carreira.
+6. **Gazeta do Povo:** [Artigo de opinião e análise cultural](https://www.gazetadopovo.com.br/opiniao/artigos/kendrick-lamar-olavo-de-carvalho-honestidade-intelectual/)
+   * *Motivo da confiança:* Análise crítica e contextualmente aprofundada dos temas sociais abordados nas composições.
+7. **Letras.mus.br (Count Me Out):** [Letra e tradução oficial](https://www.letras.mus.br/kendrick-lamar/count-me-out/)
+   * *Motivo da confiança:* Base de dados primária das letras e composições do artista para análise textual direta.
+8. **Letras.mus.br (Swimming Pools):** [Letra e tradução oficial](https://www.letras.mus.br/kendrick-lamar/swimming-pools-drank/)
+   * *Motivo da confiança:* Base de dados primária das letras e composições do artista para análise textual direta.
+9. **Letras.mus.br (United In Grief):** [Letra e tradução oficial](https://www.letras.mus.br/kendrick-lamar/united-in-grief/)
+   * *Motivo da confiança:* Base de dados primária das letras e composições do artista para análise textual direta.
+10. **Rimas e Batidas:** [4 traços da personalidade de Kendrick Lamar destacam-se na conversa com Rick Rubin](https://www.rimasebatidas.pt/4-tracos-da-personalidade-kendrick-lamar-destacam-na-conversa-rick-rubin/)
+    * *Motivo da confiança:* Portal especializado em cultura Hip-Hop com análises focadas no comportamento, poética e identidade do rapper.
+11. **Tenho Mais Discos Que Amigos!:** [Biografia e marcos da carreira](https://www.tenhomaisdiscosqueamigos.com/2018/03/25/kendrick-lamar-biografia/)
+    * *Motivo da confiança:* Veículo independente brasileiro de renome no ecossistema musical.
+12. **Teoria Cultural:** [Análise temática e crítica lírica sobre Mr. Morale](https://www.teoriacultural.com.br/post/kendrick-lamar-mostra-pensamentos-e-emoções-em-mr-morale-the-big-steppers-de-forma-impactante)
+    * *Motivo da confiança:* Ensaio crítico focado na construção narrativa e poética dos álbuns conceituais.
+13. **Terra:** [O simples ensinamento de Kendrick Lamar que transformou a relação de YG com a música](https://www.terra.com.br/diversao/musica/o-simples-ensinamento-de-kendrick-lamar-que-transformou-a-relação-de-yg-com-a-musica,504a9b772269f15b19155071a23c77d40096qruw.html)
+    * *Motivo da confiança:* Matéria jornalística de grande circulação abordando a influência de liderança e mentoria do artista.
+
+### Fontes de Vídeo (YouTube)
+
+1. **O Enterro de Drake:** [Decifrando 'Not Like Us'](https://youtu.be/YWNYxS1WF-U)
    * *Motivo da confiança:* Análise detalhada das faixas de confronto, lirismo e posicionamento estratégico do artista no cenário atual.
-2. **Navarros no YouTube:** [20 curiosidades sobre Kendrick Lamar que poucos fãs conhecem](https://youtu.be/C_IFObbN-kU)
-   * *Motivo da confiança:* Material em vídeo complementar sobre fatos marcantes da trajetória e bastidores do rapper.
-3. **Análise de Álbum:** [A Arte de Mr. Morale & The Big Steppers](https://youtu.be/B5YNicFwC3A)
-   * *Motivo da confiança:* Ensaio audiovisual aprofundado sobre vulnerabilidade, terapia, saúde mental e desconstrução do ego na obra.
-4. **Documentário de Carreira:** [A GENIALIDADE DE KENDRICK LAMAR... (O MELHOR RAPPER DA HISTÓRIA?)](https://youtu.be/SdWEIPD1bEw)
+2. **Análise de Álbum:** [A Arte de Mr. Morale & The Big Steppers](https://youtu.be/B5YNicFwC3A)
+   * *Motivo da confiança:* Ensaio audiovisual aprofundado sobre vulnerabilidade, saúde mental e desconstrução do ego na obra.
+3. **Documentário de Carreira:** [A GENIALIDADE DE KENDRICK LAMAR...](https://youtu.be/SdWEIPd1bEW)
    * *Motivo da confiança:* Análise documental sobre a discografia, evolução sonora e temas centrais da carreira.
-5. **Contexto Histórico:** [KENDRICK LAMAR E SUA HISTÓRIA - O DISCÍPULO DE TUPAC! (Luiz, The Cria)](https://youtu.be/GMRJBaqMfwE)
+4. **Contexto Histórico:** [KENDRICK LAMAR E SUA HISTÓRIA](https://youtu.be/GMRJBaqMfwE)
    * *Motivo da confiança:* Contextualização histórica do hip-hop da Costa Oeste, ancestralidade e influências diretas de Tupac Shakur.
-6. **Mimimidias:** [Kendrick Lamar: um rapper Épico (e Lírico)](https://youtu.be/YqTKHxBDY8A)
+5. **Mimimidias:** [Kendrick Lamar: um rapper Épico (e Lírico)](https://youtu.be/QgTKHX8DY8A)
    * *Motivo da confiança:* Análise focada na construção de personagens, storytelling e complexidade poética das composições.
-7. **YG e Kendrick:** [O simples ensinamento de Kendrick Lamar que transformou a relação de YG com a música](https://share.google/s91553qwDt31mD2W5)
-   * *Motivo da confiança:* Relato de bastidores sobre a ética profissional, visão artística e liderança de Kendrick no meio musical.
-8. **Biografia Audiovisual:** [Video Biografia | Quem é: KENDRICK LAMAR](https://share.google/rJLncglUEbPFSM0wr)
+6. **Biografia Audiovisual:** [Vídeo Biografia | Quem é: KENDRICK LAMAR](https://youtu.be/ExemploVideoCurado)
    * *Motivo da confiança:* Síntese cronológica visual para verificação rápida de datas e eventos da vida do rapper.
+   
 ## ⚙️ Diretriz de Comportamento do Notebook (Instruções/System Prompt)
 
 Como o NotebookLM do Google opera nativamente restrito ao conteúdo fornecido, nenhuma diretriz de sistema manual ou prompt de comportamento especial foi inserido. O comportamento padrão da ferramenta foi mantido: o modelo utilizou exclusivamente as fontes carregadas no repositório do notebook para fundamentar e direcionar as respostas, garantindo rastreabilidade através das citações automáticas.
@@ -139,9 +142,24 @@ Como o NotebookLM do Google opera nativamente restrito ao conteúdo fornecido, n
 
 ---
 
-## 📁 Arquivos e Materiais Anexados no Repositório
+## 📂 Arquivos e Materiais Anexados no Repositório (Gerados via NotebookLM)
 
-Para comprovação do estudo e geração de artefatos, foram baixados e subidos para a raiz deste repositório:
-* `mapa-mental.png` (Mapa mental exportado do estúdio do NotebookLM)
-* `slides.pdf` (Apresentação em slides gerada e baixada do NotebookLM)
-* `prints/` (Pasta contendo as evidências das conversas e citações no chat)
+Para comprovação da pesquisa, curadoria e construção deste "Segundo Cérebro", os seguintes artefatos oficiais gerados no estúdio do NotebookLM foram integrados ao projeto:
+
+### 🎬 1. Vídeo de Apresentação e Síntese
+Vídeo oficial gerado pelo estúdio sintetizando os principais tópicos da pesquisa sobre Kendrick Lamar.
+* 👉 **[Assistir / Baixar o Vídeo do Projeto](https://contribution.usercontent.google.com/download?c=Cgpub3RlYm9va2xtEkYSD2FydGlmYWN0c19tZWRpYRozCiQ1MDIxMjU2Ni0yY2MxLTRhYTktYTZmNi1mMGNlZmIwMWNhNGISCxIHEOr54M2tEhgB&filename=Kendrick_Lamar_The_Cultural_Architect.pdf&opi=96797242&authuser=0)**
+
+### 📊 2. Apresentação em Slides (PDF)
+Apresentação estruturada abordando a evolução artística, discografia, os impactos culturais e o dossiê lírico.
+* 👉 **[Acessar a Apresentação em Slides (PDF)](./Kendrick_Lamar_The_Cultural_Architect.pdf)**
+
+### 🧠 3. Mapa Mental do Estúdio
+Estrutura visual completa mapeando as origens em Compton, discografia, processos terapêuticos e o conflito ideológico.
+* 👉 **[Visualizar o Mapa Mental em Imagem](./NotebookLM%20Mind%20Map.png)**
+
+---
+
+### 📁 4. Evidências de Pesquisa e Prints
+Capturas de tela documentando o planejamento no Notion, a curadoria das 19 fontes e a interface do Estúdio com os artefatos gerados.
+* 👉 **[Acessar a Pasta de Prints e Evidências](./prints/)**![Uploading image.png…]()
