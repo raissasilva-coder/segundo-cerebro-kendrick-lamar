@@ -138,7 +138,7 @@ Como o NotebookLM do Google opera nativamente restrito ao conteúdo fornecido, n
 
 ## 🔗 Link do Notebook Compartilhado
 
-* [Acessar NotebookLM - A Genialidade de Kendrick Lamar](https://notebook.google.com/notebook/84ce34ce-051d-4f09-93d3-ab5e14564347)
+* [Acessar NotebookLM - A Genialidade de Kendrick Lamar]([https://notebook.google.com/notebook/84ce34ce-051d-4f09-93d3-ab5e14564347](https://notebook.google.com/notebook/84ce34ce-051d-4f09-93d3-ab5e14564347)
 
 ---
 
