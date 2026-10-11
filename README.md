@@ -151,7 +151,7 @@ Para comprovação da pesquisa, curadoria e construção deste "Segundo Cérebro
 
 Para comprovação da pesquisa, curadoria e construção deste "Segundo Cérebro", os artefatos oficiais gerados no estúdio do NotebookLM (Vídeo de Síntese, Apresentação em Slides e Mapa Mental) foram centralizados e disponibilizados para acesso:
 
-* 👉 **[Acessar a Pasta Completa de Materiais no Google Drive](https://drive.google.com/drive/folders/1kIogjXQ1Lm3PPJ9GiDfLTqUOdv8kWNEl?usp=drive_link)**
+* 👉 **[Acessar a Pasta Completa de Materiais no Google Drive](https://drive.google.com/drive/folders/1kIogjXQ1Lm3PPJ9GiDfLTqUOdv8kWNEl?usp=sharing)**
 
 ---
 
