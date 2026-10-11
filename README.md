@@ -1,12 +1,12 @@
 # Segundo Cérebro: A Genialidade de Kendrick Lamar
 
-## 🎯 Tema e Objetivo
+## Tema e Objetivo
 * **Tema:** Kendrick Lamar
 * **Objetivo:** Criar um segundo cérebro baseado nos ensinamentos de Kendrick Lamar através de seu posicionamento na música e no meio artístico.
 
 ---
 
-## 📚 Fontes Utilizadas e Confiabilidade
+## Fontes Utilizadas e Confiabilidade
 
 As fontes selecionadas cobrem biografias, análises líricas e discográficas, matérias jornalísticas de veículos consolidados e documentários/vídeos explicativos no YouTube.
 
@@ -54,13 +54,13 @@ As fontes selecionadas cobrem biografias, análises líricas e discográficas, m
 6. **Biografia Audiovisual:** [Vídeo Biografia | Quem é: KENDRICK LAMAR](https://youtu.be/ExemploVideoCurado)
    * *Motivo da confiança:* Síntese cronológica visual para verificação rápida de datas e eventos da vida do rapper.
    
-## ⚙️ Diretriz de Comportamento do Notebook (Instruções/System Prompt)
+## Diretriz de Comportamento do Notebook (Instruções/System Prompt)
 
 Como o NotebookLM do Google opera nativamente restrito ao conteúdo fornecido, nenhuma diretriz de sistema manual ou prompt de comportamento especial foi inserido. O comportamento padrão da ferramenta foi mantido: o modelo utilizou exclusivamente as fontes carregadas no repositório do notebook para fundamentar e direcionar as respostas, garantindo rastreabilidade através das citações automáticas.
 
 ---
 
-## 💬 Perguntas Realizadas, Respostas e Citações
+## Perguntas Realizadas, Respostas e Citações
 
 ### Pergunta 1: *Qual é a evolução temática e musical nos álbuns mais famosos do rapper?*
 
@@ -136,25 +136,25 @@ Como o NotebookLM do Google opera nativamente restrito ao conteúdo fornecido, n
   
 ---
 
-## 🔗 Link do Notebook Compartilhado
+## Link do Notebook Compartilhado
 
 * [Acessar NotebookLM - A Genialidade de Kendrick Lamar](https://notebook.google.com/notebook/84ce34ce-051d-4f09-93d3-ab5e14564347)
 
 ---
 
-## 📂 Arquivos e Materiais Anexados no Repositório (Gerados via NotebookLM)
+## Arquivos e Materiais Anexados no Repositório (Gerados via NotebookLM)
 
 Para comprovação da pesquisa, curadoria e construção deste "Segundo Cérebro", os seguintes artefatos oficiais gerados no estúdio do NotebookLM foram integrados ao projeto:
 ---
 
-## 📁 Arquivos e Materiais Anexados (Gerados via NotebookLM)
+## Arquivos e Materiais Anexados (Gerados via NotebookLM)
 
 Para comprovação da pesquisa, curadoria e construção deste "Segundo Cérebro", os artefatos oficiais gerados no estúdio do NotebookLM (Vídeo de Síntese, Apresentação em Slides e Mapa Mental) foram centralizados e disponibilizados para acesso:
 
-* 👉 **[Acessar a Pasta Completa de Materiais no Google Drive](https://drive.google.com/drive/folders/1kIogjXQ1Lm3PPJ9GiDfLTqUOdv8kWNEl?usp=sharing)**
+* **[Acessar a Pasta Completa de Materiais no Google Drive](https://drive.google.com/drive/folders/1kIogjXQ1Lm3PPJ9GiDfLTqUOdv8kWNEl?usp=sharing)**
 
 ---
 
-### 📁 4. Evidências de Pesquisa e Prints
+### Evidências de Pesquisa e Prints
 Capturas de tela documentando o planejamento no Notion, a curadoria das 19 fontes e a interface do Estúdio com os artefatos gerados.
-* 👉 **[Acessar a Pasta de Prints e Evidências](./prints/)**
+* **[Acessar a Pasta de Prints e Evidências](./prints/)**
